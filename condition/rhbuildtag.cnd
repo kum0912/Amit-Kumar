@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+  <prop att="Others" val="Heading_Four" backcolor="#ffff00"></prop>
+  <prop att="Others" val="HeadingOne" backcolor="#0000ff"></prop>
+  <prop att="Others" val="HeadingThree" backcolor="#800080"></prop>
+  <prop att="Others" val="Online" backcolor="#00ff00"></prop>
+  <prop att="Others" val="Print" backcolor="#ff0000"></prop>
+</val>

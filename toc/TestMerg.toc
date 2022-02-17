@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map type="toc">
+<book navtitle="CheckMini" format="html" processing-role="normal">
+  <page href="../contents/First_Topic.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/Merged.htm" format="html" processing-role="normal"></page>
+</book>
+</map>

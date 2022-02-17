@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/TestMerg.toc</path>
+      <name>TestMerg</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/TestMerg.glo</path>
+      <name>TestMerg</name>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <relativeOutputPath type="boolean">false</relativeOutputPath>
+    <includeDropdownText type="boolean">false</includeDropdownText>
+    <includeExpandingText type="boolean">false</includeExpandingText>
+  </content>
+  <outputPath>C:/Users/kum/Documents/My RoboHelp Projects/outputs/TestMerg/eBook</outputPath>
+  <starterPage>TestMerg.epub</starterPage>
+  <search>
+    <context>keyword</context>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <metadata>
+    <customMetadata></customMetadata>
+    <author></author>
+  </metadata>
+  <epub>
+    <publisher>Adobe RoboHelp Classic 2019</publisher>
+    <description></description>
+    <uuid>urn:uuid:3b7532d0-e7ee-4996-b91b-db322313658a</uuid>
+    <rights></rights>
+    <date>2021-11-02</date>
+  </epub>
+  <name>eBook</name>
+  <type>epub</type>
+  <title>TestMerg</title>
+  <defaultTopic></defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+  <ebooktype>
+    <name>EPUB</name>
+    <displayName>EPUB</displayName>
+  </ebooktype>
+</preset>

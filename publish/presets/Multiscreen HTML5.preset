@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/TestMerg.toc</path>
+      <name>TestMerg</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/TestMerg.glo</path>
+      <name>TestMerg</name>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <name>BSSCDefault</name>
+        <path>../mapfiles/BSSCDefault.ali</path>
+      </mapFilesitem>
+    </mapFiles>
+    <includeDropdownText type="boolean">true</includeDropdownText>
+    <includeExpandingText type="boolean">true</includeExpandingText>
+    <relativeOutputPath type="boolean">false</relativeOutputPath>
+  </content>
+  <outputPath>C:/Users/kum/Documents/My RoboHelp Projects/outputs/TestMerg/Multiscreen_HTML5</outputPath>
+  <starterPage>index.htm</starterPage>
+  <search>
+    <context>keyword</context>
+    <contextLimit>100</contextLimit>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+    <suggestion type="boolean">true</suggestion>
+    <fuzzy type="boolean">true</fuzzy>
+    <glossary type="boolean">true</glossary>
+    <maxSearchresults type="number">20</maxSearchresults>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <skin>
+    <name>Android_Tablet_Layout</name>
+    <path>../skins/Android_Tablet_Layout/html5.skn</path>
+  </skin>
+  <name>Multiscreen HTML5</name>
+  <type>html5</type>
+  <title>TestMerg</title>
+  <defaultTopic>
+    <name>First_Topic.htm</name>
+    <path>../../contents/First_Topic.htm</path>
+  </defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+  <retryMsg>Hold on a minute...</retryMsg>
+  <errorMsg>There seems to be a problem, please contact the administrator.</errorMsg>
+  <placeholderText>Type your message here.</placeholderText>
+  <chatbotDefaultText>Sorry, I do not have an answer for that.</chatbotDefaultText>
+  <chatbotWelcomeText>Welcome! How may I help you?</chatbotWelcomeText>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <chatbot>
+    <name>dialogflow</name>
+    <displayName>Google Dialogflow</displayName>
+  </chatbot>
+  <mobileapp>
+    <android type="boolean">true</android>
+    <iOS type="boolean">false</iOS>
+  </mobileapp>
+</preset>

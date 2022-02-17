@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/TestMerg.toc</path>
+      <name>TestMerg</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/TestMerg.glo</path>
+      <name>TestMerg</name>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <includeDropdownText type="boolean">false</includeDropdownText>
+    <includeExpandingText type="boolean">false</includeExpandingText>
+    <relativeOutputPath type="boolean">false</relativeOutputPath>
+  </content>
+  <outputPath>C:/Users/kum/Documents/My RoboHelp Projects/outputs/TestMerg/XML Output</outputPath>
+  <starterPage>TestMerg.htm</starterPage>
+  <search>
+    <context>keyword</context>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>XML Output</name>
+  <type>xml</type>
+  <title>TestMerg</title>
+  <lowercasenames type="number">0</lowercasenames>
+  <generateMapFiles type="boolean">true</generateMapFiles>
+  <generateBRS type="boolean">true</generateBRS>
+  <xmltype>
+    <name>XHTML</name>
+    <displayName>XHTML</displayName>
+  </xmltype>
+</preset>

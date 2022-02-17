@@ -1,0 +1,536 @@
+/*Created with Adobe RoboHelp.*/
+p {
+	font-family: Arial;
+	font-size: 11pt;
+}
+h1 {
+	color: #7a2882;
+	border-bottom-style: Solid;
+	border-bottom-width: 4px;
+	font-size: 22pt;
+	font-family: Calibri;
+}
+h2 {
+	font-weight: bold;
+	font-size: 16pt;
+	font-family: Calibri;
+	color: #000000;
+}
+h3 {
+	font-weight:bold;
+	font-size: 14.0pt;
+	margin-top: 9.5pt;
+	margin-bottom: 9.5pt;
+	font-family: Calibri;
+	color:#000000;
+}
+h4 {
+	font-weight: bold;
+	font-size: 12.0pt;
+	margin-top: 9.5pt;
+	margin-bottom: 9.5pt;
+	font-family: Calibri;
+}
+h5 {
+	font-weight: bold;
+	font-size: 10.0pt;
+	font-family: Calibri;
+}
+a {
+	color: #0000ff;
+	font-family: Calibri;
+	display: inline;
+	text-decoration: underline;
+}
+a.expandspot {
+	color: #008000;
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+}
+span.expandtext {
+	font-style: italic;
+	font-weight: normal;
+	color: #ff0000;
+}
+a.dropspot {
+	cursor: hand;
+	-o-border-image: url(purple_right_sm.jpg);
+	-o-border-image: url(purple_up_sm.jpg);
+	display: inline;
+	font-weight: bold;
+	font-style: normal;
+	color: #8000ff;
+	text-decoration: none;
+}
+a.glossterm {
+	color: #800000;
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+}
+span.glosstext {
+	font-style: italic;
+	font-weight: normal;
+	color: #0000ff;
+}
+ol,
+ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+li.Bullet {
+	list-style: disc;
+	font-family: Calibri;
+}
+h1 {
+	border-bottom-style: Solid;
+	font-size: 18pt;
+	font-family: Calibri;
+	color: #000000;
+	border-bottom-width: 4px;
+	border-bottom-color: #00afe2;
+}
+li.ATC_SubBullets {
+	list-style: disc;
+	margin-top: 0px;
+	text-indent: -0in;
+	font-size: 12pt;
+	margin-left: 0.5in;
+	margin-bottom: 8px;
+	font-family: Calibri;
+}
+/*li.02_ATC_Bullets {
+	list-style: disc;
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 8pt;
+	font-family: Calibri;
+}*/
+li.ATC_Numbers {
+	list-style: decimal;
+	font-size: 12pt;
+	margin-left: 0in;
+	margin-top: 0pt;
+	margin-bottom: 8pt;
+	font-family: Calibri;
+}
+/*rh-list.rl-p-02_ATC_Sub_numbered_List {
+	x-level-count: 1;
+	x-lvl-1-format: "<x>.";
+	x-lvl-1-type: decimal;
+}*/
+li.ATC_Table_Bullets {
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	font-size: 10.5pt;
+	font-family: Calibri;
+}
+p.ATC_Table_Body {
+	margin-right: 3pt;
+	margin-bottom: 1pt;
+	margin-left: 0pt;
+	margin-top: 0pt;
+	font-size: 12pt;
+}
+p.ATC_Table_Header {
+	font-weight: bold;
+	font-style: normal;
+	color: #ffffff;
+	margin-right: 3pt;
+	margin-bottom: 6pt;
+	font-size: 12pt;
+	margin-left: 0pt;
+	background-color: #00b2e3;
+	margin-top: 4.5pt;
+}
+p {
+	margin-right: 0pt;
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 8pt;
+	font-family: Calibri;
+}
+table.ATC_Table tr.t1st td {
+	border-left-style: Solid;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	font-weight: bold;
+	color: #ffffff;
+	text-align: Left;
+	font-size: 11pt;
+	font-family: Calibri;
+	background-color: #00afe2;
+}
+table.ATC_Table tr.t1Row td {
+	font-family: Arial;
+	border-left-style: Solid;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	font-size: 11pt;
+}
+table.ATC_Table tr.t2Row td {
+	font-family: Arial;
+	border-left-style: Solid;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	font-size: 11pt;
+}
+table.ATC_Table {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	border-left-style: Solid;
+	border-left-width: 1px;
+	border-left-color: #9ba099;
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #9ba099;
+	border-top-style: Solid;
+	border-top-width: 1px;
+	border-top-color: #9ba099;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #9ba099;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	font-family: Calibri;
+	font-size: 12pt;
+}
+table.ATC_Table td {
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+table.ImportantTipNote_Table tr.t1Row td {
+	font-family: "Times New Roman";
+	font-size: 12pt;
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #4F81BD;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #4F81BD;
+}
+table.ImportantTipNote_Table tr.t2Row td {
+	border-right-style: Solid;
+	border-right-width: 1px;
+	border-right-color: #4F81BD;
+	border-bottom-style: Solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #4F81BD;
+}
+table.ImportantTipNote_Table tr.t1st td {
+	background-color: #ffffff;
+	font-family: Arial;
+	font-size: 12pt;
+}
+table.ImportantTipNote_Table {
+	padding: 0px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-top-style: none;
+	border-bottom-style: none;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	font-family: Calibri;
+}
+/*rh-list.Bullets {
+	x-lvl-1-type: disc;
+	x-lvl-1-format: "<x>";
+	x-lvl-2-type: square;
+	x-lvl-2-format: "<x>";
+	x-lvl-2-margin: 20px;
+	x-lvl-3-type: circle;
+	x-lvl-3-format: "<x>";
+	x-lvl-3-margin: 40px;
+	x-lvl-4-type: diamond;
+	x-lvl-4-format: "<x>";
+	x-lvl-4-margin: 60px;
+	x-lvl-5-type: disc;
+	x-lvl-5-format: "<x>";
+	x-lvl-5-margin: 80px;
+	x-lvl-6-type: square;
+	x-lvl-6-format: "<x>";
+	x-lvl-6-margin: 100px;
+	x-lvl-7-type: circle;
+	x-lvl-7-format: "<x>";
+	x-lvl-7-margin: 120px;
+	x-lvl-8-type: diamond;
+	x-lvl-8-format: "<x>";
+	x-lvl-8-margin: 140px;
+	x-lvl-9-type: disc;
+	x-lvl-9-format: "<x>";
+	x-lvl-9-margin: 160px;
+	x-lvl-9-pfx-class: rls-9-Bullets;
+	x-lvl-1-pfx-class: rls-1-Bullets;
+	x-lvl-2-pfx-class: rls-2-Bullets;
+	x-lvl-3-pfx-class: rls-3-Bullets;
+	x-lvl-4-pfx-class: rls-4-Bullets;
+	x-lvl-5-pfx-class: rls-5-Bullets;
+	x-lvl-6-pfx-class: rls-6-Bullets;
+	x-lvl-7-pfx-class: rls-7-Bullets;
+	x-lvl-8-pfx-class: rls-8-Bullets;
+	x-level-count: 9;
+}*/
+/*rh-list.multilevel bullets {
+	x-lvl-1-type: disc;
+	x-lvl-1-format: "<x>";
+	x-lvl-2-type: square;
+	x-lvl-2-format: "<x>";
+	x-lvl-2-margin: 20px;
+	x-lvl-3-type: circle;
+	x-lvl-3-format: "<x>";
+	x-lvl-3-margin: 40px;
+	x-lvl-4-type: diamond;
+	x-lvl-4-format: "<x>";
+	x-lvl-4-margin: 60px;
+	x-lvl-5-type: disc;
+	x-lvl-5-format: "<x>";
+	x-lvl-5-margin: 80px;
+	x-lvl-6-type: square;
+	x-lvl-6-format: "<x>";
+	x-lvl-6-margin: 100px;
+	x-lvl-7-type: circle;
+	x-lvl-7-format: "<x>";
+	x-lvl-7-margin: 120px;
+	x-lvl-8-type: diamond;
+	x-lvl-8-format: "<x>";
+	x-lvl-8-margin: 140px;
+	x-level-count: 9;
+	x-lvl-9-type: disc;
+	x-lvl-9-format: "<x>";
+	x-lvl-9-margin: 160px;
+	x-lvl-9-pfx-class: rls-9-Bullets;
+	x-lvl-1-pfx-class: rls-1-Bullets;
+	x-lvl-2-pfx-class: rls-2-Bullets;
+	x-lvl-3-pfx-class: rls-3-Bullets;
+	x-lvl-4-pfx-class: rls-4-Bullets;
+	x-lvl-5-pfx-class: rls-5-Bullets;
+	x-lvl-6-pfx-class: rls-6-Bullets;
+	x-lvl-7-pfx-class: rls-7-Bullets;
+	x-lvl-8-pfx-class: rls-8-Bullets;
+}*/
+/*rh-list.multibullets {
+	x-lvl-1-type: disc;
+	x-lvl-1-format: "<x>";
+	x-lvl-2-type: square;
+	x-lvl-2-format: "<x>";
+	x-lvl-2-margin: 20px;
+	x-lvl-3-type: circle;
+	x-lvl-3-format: "<x>";
+	x-lvl-3-margin: 40px;
+	x-lvl-4-type: diamond;
+	x-lvl-4-format: "<x>";
+	x-lvl-4-margin: 60px;
+	x-lvl-5-type: disc;
+	x-lvl-5-format: "<x>";
+	x-lvl-5-margin: 80px;
+	x-lvl-6-type: square;
+	x-lvl-6-format: "<x>";
+	x-lvl-6-margin: 100px;
+	x-lvl-7-type: circle;
+	x-lvl-7-format: "<x>";
+	x-lvl-7-margin: 120px;
+	x-lvl-8-type: diamond;
+	x-lvl-8-format: "<x>";
+	x-lvl-8-margin: 140px;
+	x-level-count: 9;
+	x-lvl-9-type: disc;
+	x-lvl-9-format: "<x>";
+	x-lvl-9-margin: 160px;
+	x-lvl-9-pfx-class: rls-9-Bullets;
+	x-lvl-1-pfx-class: rls-1-Bullets;
+	x-lvl-2-pfx-class: rls-2-Bullets;
+	x-lvl-3-pfx-class: rls-3-Bullets;
+	x-lvl-4-pfx-class: rls-4-Bullets;
+	x-lvl-5-pfx-class: rls-5-Bullets;
+	x-lvl-6-pfx-class: rls-6-Bullets;
+	x-lvl-7-pfx-class: rls-7-Bullets;
+	x-lvl-8-pfx-class: rls-8-Bullets;
+}*/
+span.rls-9-Bullets {
+	font-size: 8pt;
+}
+span.rls-1-Bullets {
+	font-size: 12pt;
+	font-family: Calibri;
+}
+span.rls-2-Bullets {
+	font-size: 12pt;
+}
+span.rls-3-Bullets {
+	font-size: 12pt;
+}
+span.rls-4-Bullets {
+	font-size: 12pt;
+}
+span.rls-5-Bullets {
+	font-size: 10pt;
+}
+span.rls-6-Bullets {
+	font-size: 10pt;
+}
+span.rls-7-Bullets {
+	font-size: 10pt;
+}
+span.rls-8-Bullets {
+	font-size: 10pt;
+}
+a.dropspot:link {
+	color: #7a2882;
+}
+li.CHECK_DELETE_ATC_subBullet_indent_no_space {
+	list-style: square;
+	margin-left: 0.5in;
+	margin-bottom: 0pt;
+	font-family: Calibri;
+	margin-top: 3pt;
+}
+/*rh-list.MuiltLevelLinkedHeading {
+	x-lvl-2-format: "<x>.<x>.";
+	x-lvl-3-type: decimal;
+	x-lvl-3-format: "<x>.<x>.<x>.";
+	x-lvl-4-type: decimal;
+	x-lvl-4-format: "<x>.<x>.<x>.<x>.";
+	x-lvl-5-type: decimal;
+	x-lvl-5-format: "<x>.<x>.<x>.<x>.<x>.";
+	x-lvl-6-format: "<x>.<x>.<x>.<x>.<x>.<x>.";
+	x-lvl-7-format: "<x>.<x>.<x>.<x>.<x>.<x>.<x>.";
+	x-lvl-7-margin: 120px;
+	x-lvl-8-format: "<x>.<x>.<x>.<x>.<x>.<x>.<x>.<x>.";
+	x-lvl-8-margin: 140px;
+	x-lvl-9-format: "<x>.<x>.<x>.<x>.<x>.<x>.<x>.<x>.<x>.";
+	x-lvl-9-margin: 160px;
+	x-lvl-2-type: decimal;
+	x-lvl-1-p-tag: H1;
+	x-lvl-2-margin: 20px;
+	x-lvl-2-p-tag: H2;
+	x-lvl-3-margin: 40px;
+	x-lvl-3-p-tag: H3;
+	x-lvl-4-margin: 60px;
+	x-lvl-4-p-tag: H4;
+	x-lvl-5-margin: 80px;
+	x-lvl-5-p-tag: H5;
+	x-level-count: 9;
+	x-lvl-6-margin: 100px;
+	x-lvl-6-p-tag: H6;
+	x-lvl-7-pfx-class: rls-7-MuiltLevelLinkedHeading;
+	x-lvl-8-pfx-class: rls-8-MuiltLevelLinkedHeading;
+	x-lvl-9-pfx-class: rls-9-MuiltLevelLinkedHeading;
+}*/
+span.rls-7-MuiltLevelLinkedHeading {
+	font-size: 7pt;
+}
+span.rls-8-MuiltLevelLinkedHeading {
+	font-size: 7pt;
+}
+span.rls-9-MuiltLevelLinkedHeading {
+	font-size: 7pt;
+}
+/*rh-list.ATCMultilevelnumber {
+	x-lvl-2-type: lower-alpha;
+	x-lvl-3-type: lower-roman;
+	x-lvl-3-format: "<x>&c";
+	x-lvl-3-margin: 40px;
+	x-lvl-4-type: decimal;
+	x-lvl-4-format: "&o<x>&c";
+	x-lvl-4-margin: 60px;
+	x-lvl-5-format: "&o<x>&c";
+	x-lvl-5-margin: 80px;
+	x-lvl-6-type: lower-roman;
+	x-lvl-6-format: "&o<x>&c";
+	x-lvl-6-margin: 100px;
+	x-lvl-8-type: lower-alpha;
+	x-lvl-8-margin: 140px;
+	x-lvl-7-format: "<x>.";
+	x-lvl-7-margin: 120px;
+	x-lvl-9-type: lower-roman;
+	x-lvl-9-margin: 160px;
+	x-lvl-1-format: "<x>.";
+	x-lvl-2-format: "<x>.";
+	x-lvl-1-margin: 20px;
+	x-lvl-1-text-indent: -20px;
+	x-lvl-1-p-tag: IMPLICIT_P;
+	x-level-count: 9;
+	x-lvl-2-margin: 60px;
+	x-lvl-2-p-tag: IMPLICIT_P;
+}*/
+p.Caption {
+	font-style: italic;
+	font-size: 10pt;
+}
+table.ImportantTipNote_Table tr.t1Row td.t1st {
+	background-color: #ffffff;
+	font-family: Arial;
+	font-size: 12pt;
+	text-align: Center;
+}
+table.ImportantTipNote_Table tr.t2Row td.t1st {
+	background-color: #ffffff;
+	font-family: Arial;
+	font-size: 12pt;
+	text-align: Center;
+}
+table.ImportantTipNote_Table td.t1st {
+	background-color: #ffffff;
+	font-family: Arial;
+	font-size: 12pt;
+	text-align: Center;
+}
+table.ImportantTipNote_Table td {
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+li.Calibri_bullet_table {
+	font-family: Calibri;
+	list-style: disc;
+	margin-bottom: 0pt;
+	margin-left: 0pt;
+	margin-top: 0pt;
+}
+h6 {
+	font-weight: bold;
+	font-size: 7pt;
+	margin-top: 14pt;
+	margin-bottom: 14pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	page-break-after: avoid;
+	font-family: Calibri;
+}
+li.Alphabetical_Bullet {
+	list-style: lower-alpha;
+	font-family: Calibri;
+}

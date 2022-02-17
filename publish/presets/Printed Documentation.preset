@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/TestMerg.toc</path>
+      <name>TestMerg</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/TestMerg.glo</path>
+      <name>TestMerg</name>
+    </glossary>
+    <generatetoc type="boolean">true</generatetoc>
+    <includereftopics type="boolean">true</includereftopics>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <includeExpandingText type="boolean">false</includeExpandingText>
+    <includeDropdownText type="boolean">false</includeDropdownText>
+    <relativeOutputPath type="boolean">false</relativeOutputPath>
+  </content>
+  <outputPath>C:/Users/kum/Documents/My RoboHelp Projects/outputs/TestMerg/Printed Documentation</outputPath>
+  <starterPage>TestMerg.pdf</starterPage>
+  <pdf>
+    <multiheaders type="boolean">false</multiheaders>
+    <startTopicsFromNewPage type="boolean">false</startTopicsFromNewPage>
+    <margin type="array">
+      <marginitem>15mm</marginitem>
+      <marginitem>15mm</marginitem>
+      <marginitem>15mm</marginitem>
+      <marginitem>15mm</marginitem>
+    </margin>
+    <useEncryption type="boolean">false</useEncryption>
+    <useTopicsAndChaptersForToc type="boolean">true</useTopicsAndChaptersForToc>
+    <portraitLayout type="boolean">true</portraitLayout>
+    <startChapterFromNewPage type="boolean">true</startChapterFromNewPage>
+    <embeddFonts type="boolean">false</embeddFonts>
+    <compression type="boolean">false</compression>
+    <toclevel type="number">1</toclevel>
+    <resolution>96</resolution>
+    <useCustomResoultion type="boolean">false</useCustomResoultion>
+    <mergePdfs type="boolean">true</mergePdfs>
+    <showWatermark type="boolean">false</showWatermark>
+    <embedMultimedia type="boolean">false</embedMultimedia>
+    <runJavaScript type="boolean">false</runJavaScript>
+    <createTagged type="boolean">false</createTagged>
+  </pdf>
+  <search>
+    <context>keyword</context>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <name>Printed Documentation</name>
+  <type>pdf</type>
+  <title>TestMerg</title>
+  <lowercasenames type="number">0</lowercasenames>
+  <undefined type="boolean">false</undefined>
+</preset>
